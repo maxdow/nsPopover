@@ -15,7 +15,7 @@ You can download all necessary nsPopover files manually or install it with bower
 
 ```bash
 bower install nsPopover
-npm install
+npm install ns-popover
 grunt compile
 ```
 
