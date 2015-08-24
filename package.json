@@ -1,13 +1,19 @@
 {
   "author": "Neylor Ohmaly",
+  "description": "A popover directive for angularJs",
   "main": "src/nsPopover.js",
-  "name": "nsPopover",
+  "name": "ns-popover",
   "version": "0.6.8",
   "homepage": "http://nohros.com/nsPopover",
   "licenses": {
     "type": "MIT",
     "url": "https://raw.github.com/nohros/nsPopover/master/LICENSE"
   },
+  "keywords": [
+    "popover",
+    "tooltip",
+    "angular"
+  ],
   "bugs": "https://github.com/nohros/nsPopover/issues",
   "repository": {
     "type": "git",
